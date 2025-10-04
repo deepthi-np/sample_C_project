@@ -1,4 +1,3 @@
-# linumiz_assignment
 Problem statement
 --------------------
 Implement pushd and popd Linux commands in C programming.
